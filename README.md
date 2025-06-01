@@ -1,3 +1,5 @@
+DOWNLOAD ---- (Finished) VERSION, regular version if you want to build yourself
+
 has all the scripts and downloads you will need for the mod creation
 
 --follow along with the YT tutorial to figure out where to place all of these files and scripts!!! 
